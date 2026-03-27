@@ -89,7 +89,7 @@ WEATHER_API_KEY = "ac8d888b5eebbe9e131e7daf96e3dfbc"
 WEATHER_URL     = "http://api.openweathermap.org/data/2.5/weather"
 
 # NVIDIA NIM
-NIM_API_KEY  = os.getenv("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")
+NIM_API_KEY  = os.getenv("YOUR_NIM_API_KEY")
 NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
 NIM_MODEL    = "meta/llama-3.1-70b-instruct"   # Change to any NIM model you prefer
 
