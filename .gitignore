@@ -1,0 +1,12 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ATOM temporary music and TTS files
+atom_music/
+*.mp3
+*.m4a
+
+# Environment variables
+.env
