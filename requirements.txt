@@ -1,0 +1,19 @@
+# Core AI and Speech
+openai
+speechrecognition
+pyttsx3
+gTTS
+googletrans==4.0.0-rc1
+
+# Utilities and Search
+requests
+wikipedia
+duckduckgo_search
+PyPDF2
+
+# Multimedia
+pygame
+yt-dlp
+
+# Hardware Integration
+pyserial
